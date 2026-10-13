@@ -5,4 +5,4 @@ compatibility_date = "2026-10-12"
 [[d1_databases]]
 binding = "RSVPS"
 database_name = "pa-francis-memorial-rsvps"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "76b862a0-a534-4350-a651-b9238b6f1692"
